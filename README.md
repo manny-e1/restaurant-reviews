@@ -7,4 +7,4 @@ I followed Sanjeev Thiyagarajan tutorial from freeCodeCamp and added some featur
 npm install
 ```
 create .env file and configure it like this
-![env picture](https://drive.google.com/file/d/1JUa_ex7kEOHS6Q4masdkhEmKo1Zo2cY9/view?usp=sharing)
+![env picture]https://drive.google.com/file/d/1JUa_ex7kEOHS6Q4masdkhEmKo1Zo2cY9/view?usp=sharing
